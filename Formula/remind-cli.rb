@@ -3,8 +3,8 @@ class RemindCli < Formula
 
   desc "AI-powered reminder CLI with smart suggestions and notifications"
   homepage "https://pypi.org/project/remind-cli/"
-  url "https://files.pythonhosted.org/packages/a3/64/44573e4f5357356b21aba1c2356f759d84498b5e41544dd2ac1cd4dcfd2a/remind_cli-1.0.0.tar.gz"
-  sha256 "136fc8c0b8c91a0a9107be849fa6b2f5429c72b5f9e094548fea225c784aac35"
+  url "https://files.pythonhosted.org/packages/94/ed/13e5f227e1785d2dcec8221c1a1ac17f780978bbfd1191631040f89a7101/remind_cli-1.0.1.tar.gz"
+  sha256 "5610c20a62e0f9c463c6a813218673f30790e5b4fde362e055ca4f03312bf853"
   license "MIT"
 
   depends_on "python@3.12"
